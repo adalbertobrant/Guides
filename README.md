@@ -7,5 +7,5 @@ Estan hechas para asegurarnos que entiendes la totalidad de los conocimientos de
 
 Sin más dilaciones elige tu idoma para adquirir todos los conocimientos sobre la aplicación:
 
-[(ES) Guías de Better Code: Inicio](#)
+[(ES) Guías de Better Code: Inicio](https://github.com/BetterCodeHQ/Guides/blob/master/docs/es/getting-started.md)
 [(EN) Better Code Guides: Start](#)
