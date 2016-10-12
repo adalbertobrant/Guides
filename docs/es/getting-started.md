@@ -1,5 +1,14 @@
 # Empezando con Better Code
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Empezando con Better Code](#empezando-con-better-code)
+	- [¿Qué es Better Code?](#qu-es-better-code)
+	- [¿Cual es el propósito de Better Code?](#cual-es-el-propsito-de-better-code)
+	- [¡Me encantó la idea! ¿Cómo puedo ser parte?](#me-encant-la-idea-cmo-puedo-ser-parte)
+
+<!-- /TOC -->
+
 ## ¿Qué es Better Code?
 
 Better Code está enfocado a dos tipos de usuarios:
