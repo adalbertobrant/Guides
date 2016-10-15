@@ -12,4 +12,4 @@ Todo lo que hagas en una idea en Better Code(o prácticamente todo) está comuni
 
 Esas son las dos principales cosas que hacemos con nuestro amigo GitHub, te hemos dejado un pequeño esquema que acabo de bocetar en el que puedes ver el workflow entre Github y Better Code.
 
-![](../../src/img/7.jpg)
+![](../../src/img/7.JPG)
