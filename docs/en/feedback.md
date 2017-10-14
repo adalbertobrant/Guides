@@ -1,5 +1,17 @@
 # Enviar bugs, opiniones y contactar a soporte
 
+# Send bug reports, give your opinions and contact the support
+
+You could contact us in this cases:
+
+* If you are having some bug in the aplication :fire :running:
+* If something is not working as it should be :disappointed:
+* If you believe there is some security bug or something that is not so secure :unlock:
+* To give us, your oppinion (new features, improvements in some functions ...) :raised_hands:
+* If you have some personal problem (Unmatched love, ...) ; We are here to you! :shit:
+
+
+
 Puedes contactar con nosotros en algunos de estos casos:
 
 * Si estás experimentando un bug en la aplicación :fire: :running:
